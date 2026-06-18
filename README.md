@@ -1,5 +1,5 @@
 ## Hi there 👋
-# 👋 Olá, eu sou [Seu Nome]
+# 👋 Olá, eu sou o Higor
 
 ## 🎓 Formação / Curso Atual
 - Técnico em Desenvolvimento de Sistemas
