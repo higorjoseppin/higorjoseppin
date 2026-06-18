@@ -24,7 +24,7 @@
 
 ## 📫 Contato
 - E-mail: higorjoseppin@gmail.com
-- GitHub: https://github.com/higorjoseppin
+- GitHub: [https://github.com/higorjoseppin](https://github.com/higorjoseppin)
 <!--
 **higorjoseppin/higorjoseppin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
